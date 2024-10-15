@@ -17,6 +17,6 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
           useMaterial3: true,
         ),
-        home: HomeScreen());
+        home: const HomeScreen());
   }
 }
